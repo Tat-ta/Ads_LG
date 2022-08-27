@@ -1,43 +1,43 @@
-127.0.0.1 cdpbeacon.lgtvcommon.es
-127.0.0.1 cdpsvc.lgtvcommon.es
-127.0.0.1 homeprv.lgtvcommon.es
-127.0.0.1 nudge.lgtvcommon.es
-127.0.0.1 recommend.lgtvcommon.es
-127.0.0.1 rdl.lgtvcommon.es
-127.0.0.1 lgsmartad.es
-127.0.0.1 lgsmartad.com
-127.0.0.1 recommend.lgtvcommon.com
-127.0.0.1 rdl.lgtvcommon.com
-127.0.0.1 nudge.lgtvcommon.com
-127.0.0.1 homeprv.lgtvcommon.com
-127.0.0.1 cdpsvc.lgtvcommon.com
-127.0.0.1 cdpbeacon.lgtvcommon.com
-127.0.0.1 service.lgtvcommon.es
-127.0.0.1 service.lgtvcommon.com
-127.0.0.1 lgtvonline.lge.com
-127.0.0.1 eic.cdpbeacon.lgtvcommon.com
-127.0.0.1 ad.lgsmartad.com
-127.0.0.1 ibs.lgappstv.com
-127.0.0.1 lgtvsdp.com
-127.0.0.1 aic-ngfts.lge.com
-127.0.0.1 es.ibs.lgappstv.com
-127.0.0.1 es.lgtvsdp.com
-127.0.0.1 ibis.lgappstv.com
-127.0.0.1 ad.lgappstv.com
-127.0.0.1 info.lgsmartad.com
-127.0.0.1 rdx2.lgtvsdp.com
-127.0.0.1 smartshare.lgtvsdp.com
-127.0.0.1 es.rdx2.lgtvsdp.com
-127.0.0.1 es.info.lgsmartad.com
-127.0.0.1 es.ad.lgsmartad.com
-127.0.0.1 ngfts.lge.com
-127.0.0.1 lgad.cjpowercast.com.edgesuite.net
-127.0.0.1 us.rdx2.lgtvsdp.com
-127.0.0.1 us.info.lgsmartad.com
-127.0.0.1 us.ibs.lgappstv.com
-127.0.0.1 us.lgtvsdp.com
-127.0.0.1 us.ad.lgsmartad.com
-127.0.0.1 yumenetworks.com
-127.0.0.1 smartclip.net
-127.0.0.1 smartclip.com
-127.0.0.1 lgappstv.com
+cdpbeacon.lgtvcommon.es
+cdpsvc.lgtvcommon.es
+homeprv.lgtvcommon.es
+nudge.lgtvcommon.es
+recommend.lgtvcommon.es
+rdl.lgtvcommon.es
+lgsmartad.es
+lgsmartad.com
+recommend.lgtvcommon.com
+rdl.lgtvcommon.com
+nudge.lgtvcommon.com
+homeprv.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+cdpbeacon.lgtvcommon.com
+service.lgtvcommon.es
+service.lgtvcommon.com
+lgtvonline.lge.com
+eic.cdpbeacon.lgtvcommon.com
+ad.lgsmartad.com
+ibs.lgappstv.com
+lgtvsdp.com
+aic-ngfts.lge.com
+es.ibs.lgappstv.com
+es.lgtvsdp.com
+ibis.lgappstv.com
+ad.lgappstv.com
+info.lgsmartad.com
+rdx2.lgtvsdp.com
+smartshare.lgtvsdp.com
+es.rdx2.lgtvsdp.com
+es.info.lgsmartad.com
+es.ad.lgsmartad.com
+ngfts.lge.com
+lgad.cjpowercast.com.edgesuite.net
+us.rdx2.lgtvsdp.com
+us.info.lgsmartad.com
+us.ibs.lgappstv.com
+us.lgtvsdp.com
+us.ad.lgsmartad.com
+yumenetworks.com
+smartclip.net
+smartclip.com
+lgappstv.com
